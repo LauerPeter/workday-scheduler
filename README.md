@@ -32,9 +32,10 @@ N/A
 N/A
 
 ## links
-
+https://lauerpeter.github.io/workday-scheduler/
 
 ## screenshot
 
+![Work Day Scheduler - Google Chrome 7_16_2023 12_41_58 PM](https://github.com/LauerPeter/workday-scheduler/assets/135652706/1a68d3c4-eb73-4bf3-9f15-057d0201c4d6)
 
 
