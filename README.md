@@ -1,41 +1,38 @@
-# workday-scheduler
-fifth homework assignment 
+# Work Day Scheduler
 
-## Description 
+Welcome to the Work Day Scheduler! This simple calendar app helps you schedule your workday and stay organized.
 
-A workday planner for the current day. The time blocks are currently not color coded. When I have time to come back to this specific assignment I would like to implement the color codes.
+## Description
 
-## Installation
+The Work Day Scheduler allows you to plan your tasks for the day, save them, and view them later. It includes features such as:
 
-N/A
-
-## Usage 
-N/A
-
-## Credits
-
-N/A
-
-## License
-
-MIT license - refer to LICENSE in repo
-
-## Badges
-
-N/A
+- Adding and saving tasks for specific hours of the day.
+- Highlighting past, present, and future time blocks based on the current time.
+- Storing tasks in your browser's local storage for persistence.
+- Displaying the current date in the header.
 
 ## Features
 
-N/A
+- Task Management
+- Dynamic Time Block Styling
+- Local Storage Integration
+- Current Date Display
 
-## How to Contribute
-N/A
+## Usage
 
-## links
-https://lauerpeter.github.io/workday-scheduler/
+This project was created to demonstrate the use of JavaScript and jQuery for building interactive web applications. It serves as a practical tool for managing daily tasks and appointments.
 
-## screenshot
+## Installation
 
-![Work Day Scheduler - Google Chrome 7_16_2023 12_41_58 PM](https://github.com/LauerPeter/workday-scheduler/assets/135652706/1a68d3c4-eb73-4bf3-9f15-057d0201c4d6)
+No installation is required to use the Work Day Scheduler. Simply open the provided HTML file in your web browser, and you're ready to start scheduling your work day.
 
+## License
+
+MIT License
+
+## Links
+
+- [Live Demo](#) (https://lauerpeter.github.io/workday-scheduler/)
+
+## Screenshot
 
