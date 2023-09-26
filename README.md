@@ -36,3 +36,5 @@ MIT License
 
 ## Screenshot
 
+![workday-schedular-photo](https://github.com/LauerPeter/workday-scheduler/assets/135652706/3b79c241-a24b-44fc-b121-dda463c15987)
+
